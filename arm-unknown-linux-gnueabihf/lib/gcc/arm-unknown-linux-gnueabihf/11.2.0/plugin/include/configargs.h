@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "/Volumes/build/.build/arm-unknown-linux-gnueabihf/src/gcc/configure --build=aarch64-build_apple-darwin21.3.0 --host=aarch64-build_apple-darwin21.3.0 --target=arm-unknown-linux-gnueabihf --prefix=/Volumes/tools/arm-unknown-linux-gnueabihf --exec_prefix=/Volumes/tools/arm-unknown-linux-gnueabihf --with-sysroot=/Volumes/tools/arm-unknown-linux-gnueabihf/arm-unknown-linux-gnueabihf/sysroot --enable-languages=c,c++,fortran --with-float=hard --with-pkgversion='crosstool-NG 1.24.0.511_ba680a3' --disable-sjlj-exceptions --enable-__cxa_atexit --disable-libmudflap --disable-libgomp --disable-libssp --disable-libquadmath --disable-libquadmath-support --disable-libsanitizer --disable-libmpx --with-gmp=/Volumes/build/.build/arm-unknown-linux-gnueabihf/buildtools --with-mpfr=/Volumes/build/.build/arm-unknown-linux-gnueabihf/buildtools --with-mpc=/Volumes/build/.build/arm-unknown-linux-gnueabihf/buildtools --with-isl=/Volumes/build/.build/arm-unknown-linux-gnueabihf/buildtools --enable-lto --enable-threads=posix --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-multilib --with-local-prefix=/Volumes/tools/arm-unknown-linux-gnueabihf/arm-unknown-linux-gnueabihf/sysroot --enable-long-long";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "cpu", "arm10e" }, { "float", "hard" }, { "tls", "gnu" } };
